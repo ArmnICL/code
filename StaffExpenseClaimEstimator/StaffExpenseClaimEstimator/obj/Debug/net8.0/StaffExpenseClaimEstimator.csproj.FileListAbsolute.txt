@@ -1,0 +1,13 @@
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\bin\Debug\net8.0\StaffExpenseClaimEstimator.deps.json
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\bin\Debug\net8.0\StaffExpenseClaimEstimator.runtimeconfig.json
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\bin\Debug\net8.0\StaffExpenseClaimEstimator.dll
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\bin\Debug\net8.0\StaffExpenseClaimEstimator.pdb
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\StaffExpenseClaimEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\StaffExpenseClaimEstimator.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\StaffExpenseClaimEstimator.AssemblyInfo.cs
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\StaffExpenseClaimEstimator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\StaffExpenseClaimEstimator.dll
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\refint\StaffExpenseClaimEstimator.dll
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\StaffExpenseClaimEstimator.pdb
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\StaffExpenseClaimEstimator.genruntimeconfig.cache
+C:\Users\ACER\Downloads\StaffExpenseClaimEstimator\StaffExpenseClaimEstimator\obj\Debug\net8.0\ref\StaffExpenseClaimEstimator.dll
